@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/tam/gamepikachu/Game.java=UTF-8
+encoding//src/com/tam/gamepikachu/HeightDollar.java=UTF-8
+encoding//src/com/tam/gamepikachu/Help.java=UTF-8
+encoding//src/com/tam/gamepikachu/MySharedPreferences.java=UTF-8
+encoding//src/com/tam/gamepikachu/Play.java=UTF-8
+encoding//src/com/tam/gamepikachu/Setting.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/Drawline.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/Hint.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/ItemPikachu.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/Level.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/MT.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/ManagerItemPikachu.java=UTF-8
+encoding//src/com/tam/gamepikachu/components/ProgressBar.java=UTF-8
+encoding//src/com/tam/gamepikachu/dialog/DialogSaveDollar.java=UTF-8
+encoding//src/com/tam/pikachu/util/Util.java=UTF-8
+encoding//src/com/tam/pikachu/util/UtilDialog.java=UTF-8
